@@ -4,7 +4,7 @@ This assignment contains two Python scripts that perform basic mathematical oper
 
 ---
 
-## 📌 Task 1 - Factorial Calculation (`task_1.py`)
+# Task 1 - Factorial Calculation (`task_1.py`)
 
 ### Description
 This script computes the factorial of a given non-negative integer using an iterative approach.
@@ -18,7 +18,7 @@ This script computes the factorial of a given non-negative integer using an iter
 
 # Task 2 - Mathematical Operations (`task_2.py`)
 
-## Description
+### Description
 This Python script performs basic mathematical operations using the `math` module. It asks the user to input a number and computes:
 
 - Square root
@@ -27,7 +27,7 @@ This Python script performs basic mathematical operations using the `math` modul
 
 ---
 
-## Functionality
+### Functionality
 
 1. **Input:**
    - Prompts the user to enter an integer.
